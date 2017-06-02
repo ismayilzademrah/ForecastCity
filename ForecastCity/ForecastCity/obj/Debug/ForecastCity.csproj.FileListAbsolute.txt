@@ -1,0 +1,10 @@
+c:\users\p501\documents\visual studio 2017\Projects\ForecastCity\ForecastCity\bin\Debug\ForecastCity.exe.config
+c:\users\p501\documents\visual studio 2017\Projects\ForecastCity\ForecastCity\bin\Debug\ForecastCity.exe
+c:\users\p501\documents\visual studio 2017\Projects\ForecastCity\ForecastCity\bin\Debug\ForecastCity.pdb
+c:\users\p501\documents\visual studio 2017\Projects\ForecastCity\ForecastCity\obj\Debug\ForecastCity.csprojResolveAssemblyReference.cache
+c:\users\p501\documents\visual studio 2017\Projects\ForecastCity\ForecastCity\obj\Debug\ForecastCity.Form1.resources
+c:\users\p501\documents\visual studio 2017\Projects\ForecastCity\ForecastCity\obj\Debug\ForecastCity.Properties.Resources.resources
+c:\users\p501\documents\visual studio 2017\Projects\ForecastCity\ForecastCity\obj\Debug\ForecastCity.csproj.GenerateResource.Cache
+c:\users\p501\documents\visual studio 2017\Projects\ForecastCity\ForecastCity\obj\Debug\ForecastCity.exe
+c:\users\p501\documents\visual studio 2017\Projects\ForecastCity\ForecastCity\obj\Debug\ForecastCity.pdb
+c:\users\p501\documents\visual studio 2017\Projects\ForecastCity\ForecastCity\obj\Debug\ForecastCity.Form2.resources
